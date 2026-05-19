@@ -16,7 +16,8 @@ dist/
 .DS_Store
 Thumbs.db
 
-# Screenshots
+# Screenshots & archives
 *.png
 *.jpg
 *.jpeg
+*.zip
